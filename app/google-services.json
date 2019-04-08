@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "841910273389",
+    "firebase_url": "https://choitalk.firebaseio.com",
+    "project_id": "choitalk",
+    "storage_bucket": "choitalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841910273389:android:8c99cde7d9449f16",
+        "android_client_info": {
+          "package_name": "com.example.choitalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841910273389-kuts8morfoilfejdr4to4hg3l29uemnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.choitalk",
+            "certificate_hash": "b0357fd2ed7711b86ac9ff51f00f44f80c37f0cf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpRB5is-_bG_H5Evuq38qIm41KfTAkfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841910273389-sklcsim1i5uahujl001foqa92v5s808f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
